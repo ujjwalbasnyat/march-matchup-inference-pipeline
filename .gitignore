@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# VS Code settings
+.vscode/
+# Python bytecode
+__pycache__/
+*.pyc
+# Data files
+*.csv
+*.xlsx
+*.json
+*.parquet
+# Logs
+logs/
+
+# Environment and Secrets
+.env
+.env.local
+.env.*
+
+# ML / data
+data/
